@@ -15,4 +15,5 @@ api.update_status(status=tweet_text)
 
 
 def orange:
+    display 1
     
