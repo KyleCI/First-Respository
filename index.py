@@ -12,3 +12,7 @@ tweet_image_path = "photo.png"
 
 status = api.update_with_media(tweet_image_path, tweet_text)
 api.update_status(status=tweet_text)
+
+
+def orange:
+    
